@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{margin:0 auto; padding:0; }
+*{box-sizing:border-box;}
+
+
+
+
+@media all and (max-width:992px){.nav-link{font-size: 12px}.navs{height: 300px}
+@media all and (max-width:768px){.nav-link{font-size: 10px}}}
+
+@media all and (max-width:992px){.res{font-size: 12px}}
+@media all and (max-width:768px){.res{font-size: 10px}}
+@media all and (max-width:768px){.example-image{margin-bottom: 10px}}
+
+
+
+
+
+
