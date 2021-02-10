@@ -11,8 +11,16 @@ body{margin:0 auto; padding:0; }
 @media all and (max-width:768px){.nav-link{font-size: 10px}}}
 
 @media all and (max-width:992px){.res{font-size: 12px}}
-@media all and (max-width:768px){.res{font-size: 10px}}
-@media all and (max-width:768px){.example-image{margin-bottom: 10px}}
+@media all and (max-width:768px){.res-btn{padding-bottom: 20px}}
+@media all and (max-width:992px){.con{padding-bottom: 20px}}
+@media all and (max-width:992px){.con img{width: 100%}}
+
+@media all and (max-width:992px){.example-image{width:100%; margin-bottom: 15px}}
+
+
+
+
+
 
 
 
